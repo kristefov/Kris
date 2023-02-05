@@ -1,0 +1,27 @@
+* {
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ margin: 0;
+ padding: 0;
+}
+header {
+  margin: px;
+}
+
+li {
+  list-style-type: none;
+}
+  
+
+.nav-bar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    row-gap: 10px;
+    column-gap: 20px;
+    
+
+
+}
+
