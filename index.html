@@ -8,39 +8,53 @@
     <link rel="stylesheet" href="./assets/css/style.css" />
 </head>
 <body>
+    <div class="container">
     <header class="nav-bar">
         <h1>Kristiyan</h1>
         <nav>
             <ul class="nav-bar">
-             <li><a href="">About Me</a></li>
-             <li><a href="">Contact Me</a></li>
-             <li><a href="">Work</a></li>
-             <li><a href="">Resume</a></li>
+             <li class="nav-buttons"><a href="">About Me</a></li>
+             <li class="nav-buttons"><a href="">Contact Me</a></li>
+             <li class="nav-buttons"><a href="">Work</a></li>
+             <li class="nav-buttons"><a href="">Resume</a></li>
             </ul>
         </nav>
     </header>
     <br>
     <main>
-        <section>
+        <div class="text-fluid">
+            <img class="img-fluid" src="./assets/images/background.png" alt="abstract"/>
             <div>
-        <img src="./assets/images/background.png" alt="decorative-image"/>
+                <p class="text-block">Future Web Developer</p>
             </div>
-        <p >Future Web Developer</p> 
-        </section>
-        <section>
-        <h2>About Me</h2>
-        <p>I'm starting web developer with a strong foundation in HTML and CSS, and some knowledge of JavaScript. 
+        </div> 
+        <section class="about-container">
+            <div class="about-h">
+            <h2>About Me</h2>
+            </div>
+              <div class="about-p">
+                <p>I'm starting web developer with a strong foundation in HTML and CSS, and some knowledge of JavaScript. 
         With my skill set, I'm ready to start building dynamic and interactive web pages that offer a great user experience. 
         As I continue to develop my skills, 
         I will become even more proficient in creating stunning and functional websites that meet the needs of the clients and users. 
-    </p>
+                 </p>
+              </div>
         </section>
-        <h2>Work</h2>
-
+        <section class="work-container">
+            <div class="work-h">
+            <h2>Work</h2>
+            </div>
+            <div class="work-img">
+            <img class="col-12"  src="./assets/images/background.png" />
+            <img class="work-i" src="./assets/images/background.png" />
+            <img class="work-i" src="./assets/images/background.png" />
+    
+            </div>
     </main>
     <footer>
         <h2>Contact Me</h2>
     
     </footer>
+    </div>
 </body>
 </html>
