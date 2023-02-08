@@ -20,4 +20,4 @@ https://kristiyantefov.github.io/Kris/
 ![def]
 
 ---
-[def]: ./assets/images/Persoan%20Portfolio.png
+[def]: ./assets/images/Personal%20Portfolio.png
