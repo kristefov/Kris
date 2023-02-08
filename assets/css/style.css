@@ -1,0 +1,207 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    
+   }
+   /* style for the body */
+body {
+     background: black;
+     color: white;
+     padding: 10px;
+   }
+/* remove the dots from all the lists creadted and the line from the links*/
+li {
+     list-style-type: none;
+   }
+   
+h2 {
+     font-size: 20px;
+     
+}
+a {
+    text-decoration: none;
+    color: white;
+  }
+/* style for the container that holds the navigation bar */
+.container {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    }
+   
+.nav-bar {
+       display: flex;
+       flex-direction: row;
+       align-items: center;
+       justify-content: space-between;
+       flex-wrap: wrap;
+       row-gap: 10px;
+       column-gap: 20px;
+       margin: 10px  20px 0px 20px;   
+   }
+/* hoover effect the list in the nav bar */
+.nav-bar ul li a:hover {
+    color: rgb(230,22,35);
+}
+/* style for the bacground immage and for the text on it */
+.img-fluid {
+     border-radius: 20px 0px 0px 20px;
+     margin-left:10px;
+     width: 100%;
+   
+   }
+   /* style for the bacground immage and for the text on it */
+.text-fluid {
+     position: relative;
+     text-align: center;
+     color: rgb(0, 0, 0);
+   }
+   /* style for the bacground immage and for the text on it */
+.text-block {
+     font-size: 1.5vw;
+     position: absolute;
+     background-image: none;
+     color: rgb(255, 255, 255);
+     border-radius: 20px 0px 0px 20px;
+     border: 2px solid rgb(230,22,35);
+     width: 25%;
+     text-align: center;
+     font-weight: bold;
+     bottom: 35px;
+     right: -10px;
+     background-color: rgb(230,22,35);
+   }
+  /* syle for the about container and his elements  */
+.about-container{
+     display: flex;
+     align-items: stretch;
+     margin-bottom: 15px;
+   }
+.about-h {
+   margin: 20px 0px 0px 10px;
+   border-right: 5px solid white;
+   padding-right: 50px;
+   }
+   
+.about-p {
+     margin: 40px;
+     text-align: left;
+     font-size: 1.5vw;
+   }
+/* style for the work container and images */
+.work-container {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    align-content: end;
+}
+.work-img {
+  flex-direction: row;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  height: 100%;
+  width: 100%;
+  margin-right: 3%;
+}
+     
+.work-h {
+    margin: 20px 0px 0px 10px;
+    border-right: 5px solid white;
+    padding-right: 57px;  
+    
+}
+.work-p {
+    position: relative;
+    width: 40%;
+    height: 15%;
+    margin: 1%;
+  }
+
+.image-main {
+    position: relative;
+    width: 82%;
+    height: 40%;
+    margin: 1%;
+  }
+.image-1 {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+.text-image {
+    border: solid 1px black;
+    border-radius: 0px 25px 25px 0px;
+    padding: 8px;
+    position: absolute;
+    z-index: 1;
+    top: 70%;
+    left: 0%;
+    font-size: 1vw;
+    color: white;
+    background-color: rgb(41,96,123)
+    
+}
+.text-image2 {
+    position: absolute;
+    z-index: 1;
+    top: 45%;
+    left: 10%;
+    font-size: 1vw;
+}
+.contact-container {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin: 30px 10px 0px 5px;
+    
+    
+}
+.contact-h {
+    display: flex;
+    margin: 20px 0px 0px 10px;
+    border-right: 5px solid white;
+    padding-right: 10px;
+    text-align: start;
+    
+}
+.contact-p {
+       display: flex;
+       flex-direction: row;
+       flex-wrap: wrap;
+       row-gap: 10px;
+       column-gap: 20px;
+       text-align: end;
+       margin: 20px;
+}
+/* hoover effect for the images in work section  */
+section div a img:hover {
+    opacity: 0.3;
+}
+/* hoover effect for the contact me  */
+footer form ul li a:hover {
+    color: rgb(230,22,35);
+}
+.text-image:hover {
+    opacity: 70%;
+}
+
+@media screen and (max-width: 790px) {
+    h1 {
+        font-size: 4vw;
+    }
+    h2 {
+        font-size: 2.5vw;
+    }
+    .nav-buttons {
+        font-size: 2vw;
+    }
+    .contact-p {
+        font-size: 1.5vw;
+    }
+
+}
