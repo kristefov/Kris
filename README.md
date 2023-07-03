@@ -15,7 +15,7 @@ You can use this code as a starting point for your own portfolio and customize i
 ## Contributing
 If you would like to contribute to this project, please feel free to create a pull request or reach out to us with your suggestions. We welcome contributions and feedback from the community.
 
-##Linl to the webpage
+## Linl to the webpage
 
 https://kristiyantefov.github.io/Kris/
 
