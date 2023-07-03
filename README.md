@@ -48,7 +48,7 @@ https://github.com/kristiyantefov/Kris/
 
 
 # Mock-Up
-[def]: ./assets/images/Personal%20Portfolio.png
+![mock-up](../assets/images/Personal%20Portfolio.png)
 
 ## License
 
