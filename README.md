@@ -10,7 +10,7 @@ This is a personal portfolio web site designed to showcase my skills, projects a
 * [Features](#features)
 * [How-to-Use](#how-to-use)
 * [Contributing](#contributing)
-* [Link-to-webpage](#link-to-website)
+* [Link-to-webpage](#link-to-webpage)
 * [Link-to-repo](#link-to-repo)
 * [Authors](#authors)
 * [Mock-Up](#mock-up)
