@@ -1,5 +1,23 @@
-## Personal Portfolio Web Site
+
+[![Hex.pm](https://img.shields.io/badge/license%20-mit-blue?style=for-the-badge&logo=appveyor)](https://choosealicense.com/licenses/mit)
+
+
+# Personal Portfolio Web Site
 This is a personal portfolio web site designed to showcase my skills, projects and experiences to potential employers, clients and collaborators.
+
+## Table of Contents
+
+* [Features](#description)
+* [How-to-Use](#how-to-use)
+* [Contributing](#contributing)
+* [Link-to-website](#link-to-website)
+* [Link-to-repo](#link-to-repo)
+* [Authors](#authors)
+* [Mock-Up](#mock-up)
+* [License](#license)
+
+
+
 
 ## Features
 Responsive design to provide an optimal viewing experience on any device.
@@ -15,7 +33,7 @@ You can use this code as a starting point for your own portfolio and customize i
 ## Contributing
 If you would like to contribute to this project, please feel free to create a pull request or reach out to us with your suggestions. We welcome contributions and feedback from the community.
 
-## Linl to the webpage
+## Linl to webpage
 
 https://kristiyantefov.github.io/Kris/
 
@@ -29,6 +47,9 @@ https://github.com/kristiyantefov/Kris/
 - [GitHub - Kristiyan Tefov](https://github.com/kristiyantefov)
 
 
-
----
+# Mock-Up
 [def]: ./assets/images/Personal%20Portfolio.png
+
+## License
+
+- This application is covered under: [MIT License](https://choosealicense.com/licenses/mit)
