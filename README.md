@@ -35,16 +35,16 @@ If you would like to contribute to this project, please feel free to create a pu
 
 ## Linl to webpage
 
-https://kristiyantefov.github.io/Kris/
+https://kristefov.github.io/Kris/
 
 
 ## Link to repo
 
-https://github.com/kristiyantefov/Kris/
+https://github.com/kristefov/Kris/
 
 ## Authors
 
-- [GitHub - Kristiyan Tefov](https://github.com/kristiyantefov)
+- [GitHub - Kris](https://github.com/kristefov)
 
 
 # Mock-Up
